@@ -1,0 +1,29 @@
+{
+    "keyboard_name": "Roth Innovations Sambkick",
+    "manufacturer": "Roth Innovations",
+    "url": "",
+    "maintainer": "samuelroth",
+    "usb": {
+      "vid": "0x7272",
+      "pid": "0x0C2C",
+      "device_version": "0.0.1"
+    },
+
+    "processor": "atmega32u4",
+    "bootloader": "caterina",
+    
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label":"Layer", "x":0, "y":0},
+                {"label":"1", "x":1, "y":0},
+                {"label":"2", "x":2, "y":0},
+                {"label":"3", "x":3, "y":0},
+                {"label":"4", "x":4, "y":0},
+                {"label":"RE Buttn", "x":7, "y":0}
+                
+            ]
+        }
+    }
+
+}
